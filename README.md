@@ -12,8 +12,8 @@
 
 ## Start the app
 - inside root of project we can run python :
-1: source env/env/bin/activate
-2: python app.py
+1 : source env/env/bin/activate
+2 : python app.py
 
 - to run the frontend side :
  1 : cd env/Web/point-nine
