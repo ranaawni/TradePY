@@ -1,8 +1,8 @@
 # Point-Nine
 
 # Features :
-1: Trades page
-2: Positions page
+1:Trades page
+2:Positions page
 
 ## Technologies
 
@@ -16,7 +16,7 @@
 2: python app.py
 
 - to run the frontend side :
- 1: cd env/Web/point-nine
- 2: npm install
- 3: npm start
+ 1:cd env/Web/point-nine
+ 2:npm install
+ 3:npm start
  
